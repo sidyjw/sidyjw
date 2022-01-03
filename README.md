@@ -1,16 +1,13 @@
-# Sidiney Cassiano 👋
-[![Logo do LinkedIn](https://i.ibb.co/RyZx12b/linkedin.png)](https://www.linkedin.com/in/sidiney-cassiano)[![Logo do Instagram](https://i.ibb.co/qkGSp1D/instagram.png)](https://instagram.com/sidy.dev)
-<!--
-**sidyjw/sidyjw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/sidyjw/sidyjw/blob/main/assets/photo_2022-01-03_17-49-34-removebg-preview.png">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div dsplay="inline-block">
+ 
+  <h1 align="left">Sidiney Cassiano 👋</h1>
+  
+   <a href="https://www.linkedin.com/in/sidiney-cassiano">
+    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin logo" style="vertical-align:top;">
+  </a>
+  <a href="https://www.instagram.com/sidy.dev">
+    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram logo" style="vertical-align:top;">
+  </a>
+</div>
