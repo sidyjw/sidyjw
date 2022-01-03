@@ -11,3 +11,13 @@
     <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram logo" style="vertical-align:top;">
   </a>
 </div>
+
+![Snake animation](https://github.com/sidyjw/sidyjw/blob/output/github-contribution-grid-snake.svg)
+
+##
+<p align="center">
+  <a href="https://github.com/sidyjw">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidyjw&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sidyjw&hide=contribs,stars&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+</p>
