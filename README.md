@@ -59,3 +59,8 @@
 </p>
 
 ## Alguns dos meus projetos 🗂
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sidyjw&repo=virtual_store_microservices&show_owner=true)](https://github.com/sidyjw/virtual_store_microservices)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sidyjw&repo=react-next-boilerplate&show_owner=true)](https://github.com/sidyjw/react-next-boilerplate)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sidyjw&repo=reactivities-api&show_owner=true)](https://github.com/sidyjw/reactivities-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sidyjw&repo=dogs&show_owner=true)](https://github.com/sidyjw/dogs)
