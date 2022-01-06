@@ -40,7 +40,16 @@
 <img align="right" width="250px" style="margin-top:-20px" src="https://github.com/sidyjw/sidyjw/blob/main/assets/photo_2022-01-03_17-49-29-removebg-preview.png">
 
 <div display="inline-block">
- Um grande amante de tecnologia e Desenvolvedor Web Full Stack me especializei na plataforma .NET e na linguagem C#.
+ <p>Um grande amante de tecnologia e Desenvolvedor Web Full Stack, me especializei na plataforma .NET e na linguagem C#.</p>
+
+ <p>Faço aplicações usando ASP.NET Core seja MVC, Api REST, comunicação em tempo real com SignalR ou serviços gRPC. E para melhorar a qualidade do meu código, também utilizo DDD, CQRS, D.I e SOLID.</p>
+ 
+ <p>Quando me refiro à "grande amante de tecnologia” não é da boca para fora. Tenho uma grande sede de conhecimento e por isso sempre procuro me atualizar e aprender coisas novas. Além de .NET eu também estudei a fundo JavaScript e boa parte do seu ecossistema como NodeJS, Vue, React, TypeScript, NextJS, Socket.IO e etc.</p>
+
+ <p>Saindo um pouco da área do Desenvolvimento Web, também aprendi Docker já que tornou-se uma ferramenta padrão em projetos modernos e que utilizam arquitetura de microsserviços.</p> 
+
+ <p>Se eu pudesse ser definido em uma palavra ela seria: Adaptável. Todos os dias eu me esforço para não “parar no tempo” e sempre me adaptar a todas as circunstâncias e desafios.</p>
+
 </div>
 
 
@@ -48,3 +57,5 @@
 <p align="left">
   <img src="https://github.com/sidyjw/sidyjw/blob/output/github-contribution-grid-snake.svg" />
 </p>
+
+## Alguns dos meus projetos 🗂
