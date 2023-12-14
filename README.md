@@ -40,11 +40,11 @@
 <img align="right" width="250px" style="margin-top:-20px" src="https://github.com/sidyjw/sidyjw/blob/main/assets/photo_2022-01-03_17-49-29-removebg-preview.png">
 
 <div display="inline-block">
- <p>A technology enthusiast and Full Stack Web Developer, I specialize in the .NET platform and C# language.</p>
+ <p>A tech enthusiast and Full Stack Web Developer, I specialize in the .NET platform and C# language.</p>
 
- <p>I develop applications using ASP.NET Core, whether it's MVC, RESTful APIs, real-time communication with SignalR, or gRPC services. To enhance the quality of my code, I also apply the principles of SOLID, Design Patterns, and TDD.</p>
+ <p>I build applications using ASP.NET Core, whether it's MVC, RESTful APIs, real-time communication with SignalR, or gRPC services. To enhance the quality of my code, I also apply the principles of SOLID, Design Patterns, and TDD.</p>
  
- <p>When I refer to being a "technology enthusiast," it's not just talk. I have a great thirst for knowledge, and that's why I always seek to update myself and learn new things. In addition to .NET, I've also extensively studied JavaScript and a significant portion of its ecosystem, including NodeJS, Vue, React, TypeScript, NextJS, Socket.IO, etc.</p>
+ <p>When I refer to being a "tech enthusiast," it's not just talk. I have a great thirst for knowledge, and that's why I always seek to update myself and learn new things. In addition to .NET, I've also extensively studied JavaScript and a significant portion of its ecosystem, including NodeJS, Vue, React, TypeScript, NextJS, Socket.IO, etc.</p>
 
  <p>Stepping a bit outside the realm of Web Development, I've also learned Docker, as it has become a standard tool in modern projects that utilize microservices architecture.</p> 
 
