@@ -40,15 +40,15 @@
 <img align="right" width="250px" style="margin-top:-20px" src="https://github.com/sidyjw/sidyjw/blob/main/assets/photo_2022-01-03_17-49-29-removebg-preview.png">
 
 <div display="inline-block">
- <p>A tech enthusiast and Full Stack Web Developer, I specialize in the .NET platform and C# language.</p>
+<p>A tech enthusiast and Full Stack Web Developer, I specialize in the .NET platform and C# language.</p>
 
- <p>I build applications using ASP.NET Core, whether it's MVC, RESTful APIs, real-time communication with SignalR, or gRPC services. To enhance the quality of my code, I also apply the principles of SOLID, Design Patterns, and TDD.</p>
- 
- <p>When I refer to being a "tech enthusiast," it's not just talk. I have a great thirst for knowledge, and that's why I always seek to update myself and learn new things. In addition to .NET, I've also extensively studied JavaScript and a significant portion of its ecosystem, including NodeJS, Vue, React, TypeScript, NextJS, Socket.IO, etc.</p>
+<p>I build applications using ASP.NET Core, whether it's MVC, RESTful APIs, real-time communication with SignalR, or gRPC services. To enhance the quality of my code, I also apply the principles of SOLID, Design Patterns, and TDD.</p>
 
- <p>Stepping a bit outside the realm of Web Development, I've also learned Docker, as it has become a standard tool in modern projects that utilize microservices architecture.</p> 
+<p>When I talk about being a "tech enthusiast", is more than words. I have a deep passion for learning, and that's why I always seek to update myself and learn new things. In addition to .NET, I've also extensively studied JavaScript and a significant portion of its ecosystem, including NodeJS, Vue, React, TypeScript, NextJS, Socket.IO, etc.</p>
 
- <p>If I could be defined in one word, it would be: Adaptable. Every day, I strive not to "stand still" and always adapt to all circumstances and challenges.</p>
+<p>Besides Web Development, I've also learned Docker, as it has become a standard tool in modern projects that utilize microservices architecture.</p>
+
+<p>If I had to describe myself in one word, it would be: Adaptable. Every day, I strive not to "stand still" and always adapt to all circumstances and challenges.</p>
 
 </div>
 <hr />
