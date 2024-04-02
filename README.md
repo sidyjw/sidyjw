@@ -40,7 +40,7 @@
 <img align="right" width="250px" style="margin-top:-20px" src="https://github.com/sidyjw/sidyjw/blob/main/assets/photo_2022-01-03_17-49-29-removebg-preview.png">
 
 <div display="inline-block">
-<p>A tech enthusiast and Full Stack Web Developer, I specialize in the .NET platform and C# language.</p>
+<p>A tech enthusiast and Backend Developer + React, I specialize in the .NET platform and C# language.</p>
 
 <p>I build applications using ASP.NET Core, whether it's MVC, RESTful APIs, real-time communication with SignalR, or gRPC services. To enhance the quality of my code, I also apply the principles of SOLID, Design Patterns, and TDD.</p>
 
@@ -53,7 +53,7 @@
 </div>
 <hr />
 <div display="inline-block">
- <p>Um grande amante de tecnologia e Desenvolvedor Web Full Stack, especializei-me na plataforma .NET e na linguagem C#.</p>
+ <p>Um grande amante de tecnologia e Desenvolvedor Backend + React, especializei-me na plataforma .NET e na linguagem C#.</p>
 
  <p>Desenvolvo aplicações com ASP.NET Core, seja em MVC, Api REST, comunicação em tempo real com SignalR ou serviços gRPC. E, para melhorar a qualidade do meu código, também aplico os princípios de SOLID, Design Patterns e TDD.</p>
  
